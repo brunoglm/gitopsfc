@@ -15,5 +15,5 @@ spec:
       - name: goserver
         image: goserver
         ports:
-        - containerPort: 8080
+        - containerPort: 8081
 
