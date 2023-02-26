@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: brunoglm/gitopsfc
-  newTag: 74bca0e75fe32fd8fa6f0f58bb4a4b3f9673f17c
+  newTag: dac853f47bccfd08260921bcf218083c5678ed84
